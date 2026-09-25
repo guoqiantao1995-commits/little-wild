@@ -1,0 +1,2077 @@
+{
+  "items": [
+    {
+      "animal_id": "dog",
+      "animal_name": "Dog",
+      "asset": "./assets/animals/dog.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dog_side_view.jpg",
+      "source_title": "File:Dog side view.jpg",
+      "author": "BlueIllusions at English Wikipedia",
+      "uploader": "BlueIllusions at English Wikipedia",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "BlueIllusions at English Wikipedia / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 800,
+        "height": 589
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 73818,
+      "sha256": "03eba71362b1adde99ac0684ae069b7dbdac908195cc72fdac813f8047c8ce4d",
+      "commons_pageid": 4653266,
+      "openverse_title": "Domestic dog in Ericeira, Portugal 075",
+      "openverse_creator": "TailsAndTrailsArchive"
+    },
+    {
+      "animal_id": "cat",
+      "animal_name": "Cat",
+      "asset": "./assets/animals/cat.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg",
+      "source_title": "File:Felis catus-cat on snow.jpg",
+      "author": "Von.grzanka",
+      "uploader": "Ebrahim",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Von.grzanka / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 36002,
+      "sha256": "5e8eab3e2b14c9d78281cb1e1d55078875133da79ccca26b289f36d236463423",
+      "commons_pageid": 9437797,
+      "openverse_title": "Felis catus-cat on snow",
+      "openverse_creator": "Von.grzanka"
+    },
+    {
+      "animal_id": "horse",
+      "animal_name": "Horse",
+      "asset": "./assets/animals/horse.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:IcelandicHorseInWinter.jpg",
+      "source_title": "File:IcelandicHorseInWinter.jpg",
+      "author": "Andreas Tille",
+      "uploader": "Andreas Tille",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Andreas Tille / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2980,
+        "height": 1987
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 83210,
+      "sha256": "8628f7a391f8d25421b5c33169a67e9a4a5d0cc1e7a27076ba2c29982426b0fa",
+      "commons_pageid": 472074,
+      "openverse_title": "Quarter Horse(REFON)-cleaned",
+      "openverse_creator": "Quarter_Horse(REFON).jpg: José Reynaldo da Fonseca derivative work: Pitke (talk)"
+    },
+    {
+      "animal_id": "cow",
+      "animal_name": "Cow",
+      "asset": "./assets/animals/cow.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bos_taurus_taurus_sideview.JPG",
+      "source_title": "File:Bos taurus taurus sideview.JPG",
+      "author": "Richard Bartz, Munich Makro Freak",
+      "uploader": "Richard Bartz, Munich Makro Freak",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Richard Bartz, Munich Makro Freak / Wikimedia Commons / CC BY-SA 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1800,
+        "height": 1200
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 79110,
+      "sha256": "b1dcf3aada7311ab393ecd4e5b487d920d181837e7429bf030e31e2f8ef152bc",
+      "commons_pageid": 2261761,
+      "openverse_title": "Cow portrait",
+      "openverse_creator": "Pikaluk"
+    },
+    {
+      "animal_id": "sheep",
+      "animal_name": "Sheep",
+      "asset": "./assets/animals/sheep.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sheep,_Stodmarsh_6.jpg",
+      "source_title": "File:Sheep, Stodmarsh 6.jpg",
+      "author": "Keven Law , Los Angeles, USA",
+      "uploader": "MU",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Keven Law , Los Angeles, USA / Wikimedia Commons / CC BY-SA 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2100,
+        "height": 2360
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 44250,
+      "sha256": "682bbe2d5c0e1deca3bbab5d3d54a4b1b5558a400ab863c709bc7c342b2f1910",
+      "commons_pageid": 6036555,
+      "openverse_title": "Sheep, Stodmarsh 6",
+      "openverse_creator": "Keven Law, Los Angeles, USA"
+    },
+    {
+      "animal_id": "goat",
+      "animal_name": "Goat",
+      "asset": "./assets/animals/goat.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bagot_Goat_9.jpg",
+      "source_title": "File:Bagot Goat 9.jpg",
+      "author": "Goldclock",
+      "uploader": "Goldclock",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Goldclock / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4608,
+        "height": 3456
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 78494,
+      "sha256": "495faacb411f634d01ca279e955a0ca180c14739c41acb943ed9cf85488eb6ae",
+      "commons_pageid": 144216930,
+      "openverse_title": "Domestic goat 2020 G1",
+      "openverse_creator": "George Chernilevsky"
+    },
+    {
+      "animal_id": "pig",
+      "animal_name": "Pig",
+      "asset": "./assets/animals/pig.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mudchute_farm_pig_side.jpg",
+      "source_title": "File:Mudchute farm pig side.jpg",
+      "author": "Caroline Ford",
+      "uploader": "Caroline Ford",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Caroline Ford / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2272,
+        "height": 1704
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 124308,
+      "sha256": "ce13fd9af822c81c85e714838e6d84a0ff8020d112bd8084789c3fa29b9a640a",
+      "commons_pageid": 1923224,
+      "openverse_title": "Pig farm Vampula 9",
+      "openverse_creator": "kallerna"
+    },
+    {
+      "animal_id": "chicken",
+      "animal_name": "Chicken",
+      "asset": "./assets/animals/chicken.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gallus_gallus_domesticus_LC0259.jpg",
+      "source_title": "File:Gallus gallus domesticus LC0259.jpg",
+      "author": "Jörg Hempel",
+      "uploader": "LC-de",
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": "Jörg Hempel / Wikimedia Commons / CC BY-SA 3.0 de (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2000,
+        "height": 2000
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 85418,
+      "sha256": "331113808863674dfabd47fa6738ce105c2a6ac242fd514ef88b5400fefab299",
+      "commons_pageid": 19195225,
+      "openverse_title": "<div class='fn'> Chicken Posing</div>",
+      "openverse_creator": "Aleksei Belta"
+    },
+    {
+      "animal_id": "duck",
+      "animal_name": "Duck",
+      "asset": "./assets/animals/duck.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Duck_from_right_side.JPG",
+      "source_title": "File:Duck from right side.JPG",
+      "author": "Dmitry G",
+      "uploader": "Dmitry G",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "Dmitry G / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 3648,
+        "height": 2736
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 144714,
+      "sha256": "eb327c1a707fb3a7f2ee3b04aa40022db2b916f314d54d2b69d7dcb9aca4c27b",
+      "commons_pageid": 45529504,
+      "openverse_title": "Tufted-Duck-male-female",
+      "openverse_creator": "Andreas Trepte"
+    },
+    {
+      "animal_id": "rabbit",
+      "animal_name": "Rabbit",
+      "asset": "./assets/animals/rabbit.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:White_rabbit_with_blue_eyes_on_a_rock.jpg",
+      "source_title": "File:White rabbit with blue eyes on a rock.jpg",
+      "author": "José Lodos Benavente (Joselodos)",
+      "uploader": "Joselodos",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "José Lodos Benavente (Joselodos) / Wikimedia Commons / CC0 1.0 (watermark excluded by trimming empty lower-right margin; full rabbit photo preserved and converted to WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1280,
+        "height": 853
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 33244,
+      "sha256": "40c784e2306df6861c023586a89c1acc277e24b78bab123b8b0886cc6acc684c"
+    },
+    {
+      "animal_id": "elephant",
+      "animal_name": "Elephant",
+      "asset": "./assets/animals/elephant.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Elephant_near_ndutu.jpg",
+      "source_title": "File:Elephant near ndutu.jpg",
+      "author": "The author is nickandmel2006 on flickr",
+      "uploader": "UserB",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "The author is nickandmel2006 on flickr / Wikimedia Commons / CC BY-SA 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 2560
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 106922,
+      "sha256": "0edc66d324416ddd84d3c92d9af3cdd25f1a5c3812444618263a04fc6e7c3a02",
+      "commons_pageid": 2281482,
+      "openverse_title": "Elephant near ndutu",
+      "openverse_creator": "The author is nickandmel2006 on flickr"
+    },
+    {
+      "animal_id": "lion",
+      "animal_name": "Lion",
+      "asset": "./assets/animals/lion.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Okonjima_Lioness.jpg",
+      "source_title": "File:Okonjima Lioness.jpg",
+      "author": "Falense",
+      "uploader": "Falense",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Falense / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1835,
+        "height": 1600
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 110212,
+      "sha256": "0557cde4635009011d5a92a007e3996436306df80b5c1f1e894f21ed6d996754",
+      "commons_pageid": 882958,
+      "openverse_title": "Male Lion and Cub Chitwa South Africa Luca Galuzzi 2004",
+      "openverse_creator": "Luca Galuzzi (Lucag)"
+    },
+    {
+      "animal_id": "tiger",
+      "animal_name": "Tiger",
+      "asset": "./assets/animals/tiger.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lateral_tiger.jpg",
+      "source_title": "File:Lateral tiger.jpg",
+      "author": "วิชิต กองคำ",
+      "uploader": "วิชิต กองคำ",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "วิชิต กองคำ / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 5312,
+        "height": 3114
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 72800,
+      "sha256": "6edc212b602a70df8aec73863d44583dce3eac50303f65497a872f1293311953",
+      "commons_pageid": 181039572,
+      "openverse_title": "Tiger in Ranthambhore",
+      "openverse_creator": "Bjørn Christian Tørrissen"
+    },
+    {
+      "animal_id": "giraffe",
+      "animal_name": "Giraffe",
+      "asset": "./assets/animals/giraffe.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Giraffe_Mikumi_National_Park.jpg",
+      "source_title": "File:Giraffe Mikumi National Park.jpg",
+      "author": "Muhammad Mahdi Karim Facebook The making of this document was supported by Wikimedia CH . ( Submit your project! ) For all the files concerned, please see the category Supported by Wikimedia CH . العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano ∙ 日本語 ∙ македонски ∙ Nederlands ∙ português do Brasil ∙ rumantsch ∙ русский ∙ sicilianu ∙ slovenščina ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/−",
+      "uploader": "Muhammad Mahdi Karim Facebook The making of this document was supported by Wikimedia CH . ( Submit your project! ) For all the files concerned, please see the category Supported by Wikimedia CH . العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano ∙ 日本語 ∙ македонски ∙ Nederlands ∙ português do Brasil ∙ rumantsch ∙ русский ∙ sicilianu ∙ slovenščina ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/−",
+      "license": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "attribution": "Muhammad Mahdi Karim Facebook The making of this document was supported by Wikimedia CH . ( Submit your project! ) For all the files concerned, please see the category Supported by Wikimedia CH . العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano ∙ 日本語 ∙ македонски ∙ Nederlands ∙ português do Brasil ∙ rumantsch ∙ русский ∙ sicilianu ∙ slovenščina ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/− / Wikimedia Commons / GFDL 1.2 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1590,
+        "height": 2011
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 119678,
+      "sha256": "e6adc4d235e7deabe3ddac930f094ae8ee756c5a10aeac226ca636026ecc1f42",
+      "commons_pageid": 16118404,
+      "openverse_title": "Giraffe koure niger 2006",
+      "openverse_creator": "Roland H. https://www.flickr.com/photos/rolandh/"
+    },
+    {
+      "animal_id": "zebra",
+      "animal_name": "Zebra",
+      "asset": "./assets/animals/zebra.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Zebra_sideview.jpg",
+      "source_title": "File:Zebra sideview.jpg",
+      "author": "porges . The original uploader was Porges at English Wikipedia .. A later version was uploaded by DrewMaverick at en.wikipedia . ( log )",
+      "uploader": "porges . The original uploader was Porges at English Wikipedia .. A later version was uploaded by DrewMaverick at en.wikipedia . ( log )",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "porges . The original uploader was Porges at English Wikipedia .. A later version was uploaded by DrewMaverick at en.wikipedia . ( log ) / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1005,
+        "height": 699
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 68842,
+      "sha256": "1bb5eb86b9a075285d82354b79f5f424138f794f1e6545c324e953e7c9672c5e",
+      "commons_pageid": 8567158,
+      "openverse_title": "Burchell's Zebra (Etosha)",
+      "openverse_creator": "Flickr user Rui Ornelas"
+    },
+    {
+      "animal_id": "monkey",
+      "animal_name": "Monkey",
+      "asset": "./assets/animals/monkey.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_in_Borneo.jpg",
+      "source_title": "File:Proboscis Monkey in Borneo.jpg",
+      "author": "David Dennis",
+      "uploader": "Flickr upload bot",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "David Dennis / Wikimedia Commons / CC BY-SA 2.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1371
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 50858,
+      "sha256": "22f0279e226a893b8e5ebc3ca4a57ad5b514df221021a035e1119b9587922003",
+      "commons_pageid": 11323874,
+      "openverse_title": "Proboscis Monkey in Borneo",
+      "openverse_creator": "David Dennis"
+    },
+    {
+      "animal_id": "gorilla",
+      "animal_name": "Gorilla",
+      "asset": "./assets/animals/gorilla.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gorilla_.jpg",
+      "source_title": "File:Gorilla .jpg",
+      "author": "Kabir Bakie",
+      "uploader": "Slick-o-bot",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Kabir Bakie / Wikimedia Commons / CC BY-SA 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3078,
+        "height": 2046
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 48718,
+      "sha256": "596463fe8b9f2e87a3a7417c2d2fc596f02bcc5c75b2ad4a08a4b820649b2728",
+      "commons_pageid": 263876,
+      "openverse_title": "Gorilla 019",
+      "openverse_creator": null
+    },
+    {
+      "animal_id": "chimpanzee",
+      "animal_name": "Chimpanzee",
+      "asset": "./assets/animals/chimpanzee.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chimpanzee_(13968481823).jpg",
+      "source_title": "File:Chimpanzee (13968481823).jpg",
+      "author": "Chi King",
+      "uploader": "John Cummings",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Chi King / Wikimedia Commons / CC BY 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2794,
+        "height": 2364
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 106782,
+      "sha256": "ecdb99934b28a7b6ed48ea1ddaa6713f26ec191242ba4ed1a813f099ea80229d",
+      "commons_pageid": 33950491,
+      "openverse_title": "Chimpanzee (13968481823)",
+      "openverse_creator": "Chi King"
+    },
+    {
+      "animal_id": "hippo",
+      "animal_name": "Hippo",
+      "asset": "./assets/animals/hippo.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_(16485955207).jpg",
+      "source_title": "File:Hippo (Hippopotamus amphibius) (16485955207).jpg",
+      "author": "Bernard DUPONT from FRANCE",
+      "uploader": "Josve05a",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Bernard DUPONT from FRANCE / Wikimedia Commons / CC BY-SA 2.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 81384,
+      "sha256": "ceae4fdaf530111664e68d9e7697210ede60f342ad11debcbc944645cebbf67b",
+      "commons_pageid": 40724786,
+      "openverse_title": "Hippo (Hippopotamus amphibius) (16485955207)",
+      "openverse_creator": "Bernard DUPONT from FRANCE"
+    },
+    {
+      "animal_id": "rhino",
+      "animal_name": "Rhino",
+      "asset": "./assets/animals/rhino.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG",
+      "source_title": "File:Sumatran Rhinoceros at Sumatran Rhino Sanctuary Lampung Indonesia 2013.JPG",
+      "author": "26Isabella",
+      "uploader": "26Isabella",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "26Isabella / Wikimedia Commons / CC BY-SA 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2592,
+        "height": 1944
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 119064,
+      "sha256": "494da344b9d80067f53fd811a56f74b9a9347aecb391919a74f3fd4cab493643",
+      "commons_pageid": 31167009,
+      "openverse_title": "Sumatran Rhinoceros at Sumatran Rhino Sanctuary Lampung Indonesia 2013",
+      "openverse_creator": "26Isabella"
+    },
+    {
+      "animal_id": "crocodile",
+      "animal_name": "Crocodile",
+      "asset": "./assets/animals/crocodile.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Crocodylus_-_Crocodile_-_Krokodil_-_01.jpg",
+      "source_title": "File:Crocodylus - Crocodile - Krokodil - 01.jpg",
+      "author": "Norbert Nagel, Mörfelden-Walldorf, Germany",
+      "uploader": "NorbertNagel",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Norbert Nagel, Mörfelden-Walldorf, Germany / Wikimedia Commons / CC BY-SA 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3535,
+        "height": 2651
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 149094,
+      "sha256": "6b5107069fb2713a5ee0b5610829ac1e49eb4af2ad9800719436020a525f29af",
+      "commons_pageid": 17407559,
+      "openverse_title": "Crocodylus - Crocodile - Krokodil - 01",
+      "openverse_creator": "Norbert Nagel, Mörfelden-Walldorf, Germany"
+    },
+    {
+      "animal_id": "cheetah",
+      "animal_name": "Cheetah",
+      "asset": "./assets/animals/cheetah.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:TheCheethcat.jpg",
+      "source_title": "File:TheCheethcat.jpg",
+      "author": "James Temple",
+      "uploader": "James Temple",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "James Temple / Wikimedia Commons / CC BY 2.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 853,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 65544,
+      "sha256": "107fe7c58ae8f0669c80c91a6a5cda7c35becd63ead60df68a2c8cdadd70cba8",
+      "commons_pageid": 7823028,
+      "openverse_title": "Cheetah looking",
+      "openverse_creator": "William Warby from London, England"
+    },
+    {
+      "animal_id": "leopard",
+      "animal_name": "Leopard",
+      "asset": "./assets/animals/leopard.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Male_leopard_-_Mara.jpg",
+      "source_title": "File:Male leopard - Mara.jpg",
+      "author": "Sumeet Moghe",
+      "uploader": "Sumeetmoghe",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Sumeet Moghe / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4668,
+        "height": 2626
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 73158,
+      "sha256": "294fc43e275729012b605b7579d07f11f850878aa0975d0a08a27ea889e1d6ed",
+      "commons_pageid": 136505751,
+      "openverse_title": "<div class='fn'> Xizi Amur Leopard</div>",
+      "openverse_creator": "Lee Elvin"
+    },
+    {
+      "animal_id": "brown-bear",
+      "animal_name": "Brown Bear",
+      "asset": "./assets/animals/brown-bear.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos_arctos)_smiling.jpg",
+      "source_title": "File:Brown bear (Ursus arctos arctos) smiling.jpg",
+      "author": "Malene Thyssen",
+      "uploader": "McZusatz",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Malene Thyssen / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 46764,
+      "sha256": "3a8250c4b0f7e39f79cc63c1d99cc96860c360e00b65abf1bf5c7ff08b70ebd7",
+      "commons_pageid": 8309377,
+      "openverse_title": "Brown bear (Ursus arctos arctos) smiling",
+      "openverse_creator": "Malene Thyssen"
+    },
+    {
+      "animal_id": "panda",
+      "animal_name": "Giant Panda",
+      "asset": "./assets/animals/panda.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Giant_panda_on_a_white_background.png",
+      "source_title": "File:Giant panda on a white background.png (edited from File:Panda.jpg)",
+      "author": "Harald",
+      "uploader": "Jester77aa08",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "Harald / Wikimedia Commons / CC BY 2.0 (full-frame fit on white canvas and converted to WebP; original white-background edit retained)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1405,
+        "height": 1120
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 20476,
+      "sha256": "5f5ad7c8f322d40b1db8fb5eafe3ba544cf3887b66c119043c6dcfef3b75d8cf"
+    },
+    {
+      "animal_id": "wolf",
+      "animal_name": "Wolf",
+      "asset": "./assets/animals/wolf.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
+      "source_title": "File:Eurasian wolf 2.jpg",
+      "author": "User:Mas3cf",
+      "uploader": "MPF",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "User:Mas3cf / Wikimedia Commons / CC BY-SA 4.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3440,
+        "height": 2664
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 64176,
+      "sha256": "1036aa6406b1ed5d14555a05dab541377da7cfbaf3722d9b88bf8fe0bf246455",
+      "commons_pageid": 95523086,
+      "openverse_title": "Eurasian wolf 2",
+      "openverse_creator": "User:Mas3cf"
+    },
+    {
+      "animal_id": "fox",
+      "animal_name": "Fox",
+      "asset": "./assets/animals/fox.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fox_-_British_Wildlife_Centre_(17429406401).jpg",
+      "source_title": "File:Fox - British Wildlife Centre (17429406401).jpg",
+      "author": "Airwolfhound from Hertfordshire, UK",
+      "uploader": "Helmy oved",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Airwolfhound from Hertfordshire, UK / Wikimedia Commons / CC BY-SA 2.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 57234,
+      "sha256": "e89c860b74d7965c65c98ce2258a109a1e4e5d28230fc6ceb50bb19136abb643",
+      "commons_pageid": 40155127,
+      "openverse_title": "Fox - British Wildlife Centre (17429406401)",
+      "openverse_creator": "Airwolfhound from Hertfordshire, UK"
+    },
+    {
+      "animal_id": "deer",
+      "animal_name": "Deer",
+      "asset": "./assets/animals/deer.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor_2.jpg",
+      "source_title": "File:Roe deer (Capreolus capreolus) young male Cumnor 2.jpg",
+      "author": "Charles J. Sharp",
+      "uploader": "Charlesjsharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 5403,
+        "height": 4701
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 163714,
+      "sha256": "ba9dcbcbc813a8869b2fc1e4b5c5c8597758a63a9b6e97a5ec7b3dd40a6d0035",
+      "commons_pageid": 147137367,
+      "openverse_title": "Red deer stag 2009 denmark",
+      "openverse_creator": "Bill Ebbesen"
+    },
+    {
+      "animal_id": "moose",
+      "animal_name": "Moose",
+      "asset": "./assets/animals/moose.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alces_alces,_female,_Fokstumyra_naturreservat,_Norway_4.jpg",
+      "source_title": "File:Alces alces, female, Fokstumyra naturreservat, Norway 4.jpg",
+      "author": "Bouke ten Cate",
+      "uploader": "BouketenCate",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Bouke ten Cate / Wikimedia Commons / CC BY 4.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1370
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 97638,
+      "sha256": "07c7fdc961b59f4b15ec5e1786679253f5927d74a086cab2f13b1b838eefb983",
+      "commons_pageid": 167488484,
+      "openverse_title": "File:Alces alces, female, Fokstumyra naturreservat, Norway 4.jpg",
+      "openverse_creator": "Bouke ten Cate"
+    },
+    {
+      "animal_id": "squirrel",
+      "animal_name": "Squirrel",
+      "asset": "./assets/animals/squirrel.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Squirrel.jpg",
+      "source_title": "File:Eastern Grey Squirrel.jpg",
+      "author": "Tom Friedel",
+      "uploader": "Tomfriedel",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "Tom Friedel / Wikimedia Commons / CC BY 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2992,
+        "height": 2480
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 126398,
+      "sha256": "0ed9c75163e75ec074b7b369ef2aad369513246d8c2612cd3f0c74384e5c4c6b",
+      "commons_pageid": 9645353,
+      "openverse_title": "Eastern Grey Squirrel",
+      "openverse_creator": "BirdPhotos.com"
+    },
+    {
+      "animal_id": "hedgehog",
+      "animal_name": "Hedgehog",
+      "asset": "./assets/animals/hedgehog.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:European_hedgehog_(Erinaceus_europaeus).jpg",
+      "source_title": "File:European hedgehog (Erinaceus europaeus).jpg",
+      "author": "Gaudete",
+      "uploader": "Soerfm",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Gaudete / Wikimedia Commons / CC BY-SA 2.5 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2811,
+        "height": 2028
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 137276,
+      "sha256": "2d23f047269d76fddf364dd691863d8018f76c128f5deb71cfffd8cf6a7b2e2b",
+      "commons_pageid": 2440882,
+      "openverse_title": "European hedgehog (Erinaceus europaeus)",
+      "openverse_creator": "Gaudete"
+    },
+    {
+      "animal_id": "raccoon",
+      "animal_name": "Raccoon",
+      "asset": "./assets/animals/raccoon.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_raccoon_near_water_-_DPLA_-_8b80da82c05af99dd903285a52394c3d.jpg",
+      "source_title": "File:Common raccoon near water - DPLA - 8b80da82c05af99dd903285a52394c3d.jpg",
+      "author": "Garst, Warren, 1922-2016, photographer",
+      "uploader": "Garst, Warren, 1922-2016, photographer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Garst, Warren, 1922-2016, photographer / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1592,
+        "height": 1061
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 80620,
+      "sha256": "524304057cef8255ebbd8564fde643c335f2bc85101e4724a185752fea32e025",
+      "commons_pageid": 116314524,
+      "openverse_title": "Raccoon (Procyon lotor) 1",
+      "openverse_creator": "Darkone (talk · contribs)"
+    },
+    {
+      "animal_id": "kangaroo",
+      "animal_name": "Kangaroo",
+      "asset": "./assets/animals/kangaroo.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kangaroo_on_the_beach_Cape_Hillsborough,_2017.jpg",
+      "source_title": "File:Kangaroo on the beach Cape Hillsborough, 2017.jpg",
+      "author": "Ian Cochrane",
+      "uploader": "Kerry Raymond",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Ian Cochrane / Wikimedia Commons / CC BY 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 5184,
+        "height": 3888
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 133638,
+      "sha256": "033d43da49cee13f108a57c0d5d2b435689ee708cd9a8953b4212f157c879768",
+      "commons_pageid": 158286659,
+      "openverse_title": "File:Kangaroo on the beach Cape Hillsborough, 2017.jpg",
+      "openverse_creator": null
+    },
+    {
+      "animal_id": "koala",
+      "animal_name": "Koala",
+      "asset": "./assets/animals/koala.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg",
+      "source_title": "File:Koala climbing tree.jpg",
+      "author": "Diliff",
+      "uploader": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Diliff / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1132,
+        "height": 1113
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 88472,
+      "sha256": "54f4dde74ec7869b7b235c0ed983a0cea3296f62fd070dd6a3553239b861d4ab",
+      "commons_pageid": 361837,
+      "openverse_title": "Koala and joey",
+      "openverse_creator": "Benjamint444"
+    },
+    {
+      "animal_id": "polar-bear",
+      "animal_name": "Polar Bear",
+      "asset": "./assets/animals/polar-bear.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Polar_Bear_AdF.jpg",
+      "source_title": "File:Polar Bear AdF.jpg",
+      "author": "Arturo de Frias Marques",
+      "uploader": "Arturo de Frias Marques",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Arturo de Frias Marques / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 31346,
+      "sha256": "3337a8a72b38a2fccc1a6cecf622b8a720a3439a6529fa916581ae26501c5a2f",
+      "commons_pageid": 34567165,
+      "openverse_title": "Polar bear (Ursus) maritimus female with its cub, Svalbard (2)",
+      "openverse_creator": "AWeith"
+    },
+    {
+      "animal_id": "otter",
+      "animal_name": "Otter",
+      "asset": "./assets/animals/otter.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fischotter%2C_Lutra_Lutra.JPG",
+      "source_title": "File:Fischotter, Lutra Lutra.JPG",
+      "author": "Bernard Landgraf",
+      "uploader": "Bernard Landgraf",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Bernard Landgraf / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 908,
+        "height": 497
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 51576,
+      "sha256": "d31ad2020d30e11466ba7ed545b5d443dc0ae8a06d1455fc15849843cfec3fa0",
+      "commons_pageid": 41335,
+      "openverse_title": "Sea otter with sea urchin",
+      "openverse_creator": "matt knoth from San Francisco, yesicannibus"
+    },
+    {
+      "animal_id": "penguin",
+      "animal_name": "Penguin",
+      "asset": "./assets/animals/penguin.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chinstrap_Penguin.jpg",
+      "source_title": "File:Chinstrap Penguin.jpg",
+      "author": "Gilad Rom from Israel",
+      "uploader": "VulpesVulpes42",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Gilad Rom from Israel / Wikimedia Commons / CC BY 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2336,
+        "height": 3504
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 37096,
+      "sha256": "22af6a47c396353be00d1aa74408b9d698858a9056c07ae4d03a0422a3122ea7",
+      "commons_pageid": 4048714,
+      "openverse_title": "Chinstrap Penguin",
+      "openverse_creator": "Gilad Rom from Israel"
+    },
+    {
+      "animal_id": "owl",
+      "animal_name": "Owl",
+      "asset": "./assets/animals/owl.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eurasian_pygmy_owl_(Glaucidium_passerinum)_Bia%C5%82owieza.jpg",
+      "source_title": "File:Eurasian pygmy owl (Glaucidium passerinum) Białowieza.jpg",
+      "author": "Charles J. Sharp",
+      "uploader": "Charlesjsharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2165,
+        "height": 3247
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 54616,
+      "sha256": "fb3b7e249d735c2f3ff3003efea3bb6c6ddb570606389c812e6f0319a22fb900",
+      "commons_pageid": 131664556,
+      "openverse_title": "Eurasian pygmy owl (Glaucidium passerinum) Białowieza",
+      "openverse_creator": "Charles J. Sharp"
+    },
+    {
+      "animal_id": "eagle",
+      "animal_name": "Eagle",
+      "asset": "./assets/animals/eagle.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Greater_spotted_eagle.jpg",
+      "source_title": "File:Greater spotted eagle.jpg",
+      "author": "Вых Пыхманн",
+      "uploader": "Artemy Voikhansky",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Вых Пыхманн / Wikimedia Commons / CC BY-SA 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2810,
+        "height": 3747
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 56666,
+      "sha256": "03dd9f4c822f0bcb1cf39bf851262e641499f7ed0e205d57f39d1286d72177c1",
+      "commons_pageid": 25802343,
+      "openverse_title": "Greater spotted eagle",
+      "openverse_creator": "Вых Пыхманн"
+    },
+    {
+      "animal_id": "parrot",
+      "animal_name": "Parrot",
+      "asset": "./assets/animals/parrot.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parrot.jpg",
+      "source_title": "File:Parrot.jpg",
+      "author": "Contributor50",
+      "uploader": "Contributor50",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Contributor50 / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4272,
+        "height": 2848
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 41110,
+      "sha256": "a48651ed85ba808f04d3a88132786ff1497475ea58d78a8815c6c064bb92b7e7",
+      "commons_pageid": 43388189,
+      "openverse_title": "Red Shining-parrot",
+      "openverse_creator": "Duncan Wright"
+    },
+    {
+      "animal_id": "flamingo",
+      "animal_name": "Flamingo",
+      "asset": "./assets/animals/flamingo.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Greater_flamingo_galapagos.JPG",
+      "source_title": "File:Greater flamingo galapagos.JPG",
+      "author": "Charles J. Sharp",
+      "uploader": "Charlesjsharp",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1735
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 33632,
+      "sha256": "4d40d24bf14856da13e6f5c9ad9297c34c0a337200f2364e87df62fa7dd6e742",
+      "commons_pageid": 19037695,
+      "openverse_title": "Greater flamingo galapagos",
+      "openverse_creator": "Charles J. Sharp"
+    },
+    {
+      "animal_id": "peacock",
+      "animal_name": "Peacock",
+      "asset": "./assets/animals/peacock.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Peacock.jpg",
+      "source_title": "File:Peacock.jpg",
+      "author": "Peter Andersen (assumed based on copyright claims)",
+      "uploader": "Bjh21",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Peter Andersen (assumed based on copyright claims) / Wikimedia Commons / CC BY 2.5 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2592,
+        "height": 1944
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 256390,
+      "sha256": "72dc7595b60fe049c895d8c4988dfaefb246ee857d9dfdefc13c7419ae5d517a",
+      "commons_pageid": 452220,
+      "openverse_title": "Peacock",
+      "openverse_creator": "Peter Andersen (assumed based on copyright claims)"
+    },
+    {
+      "animal_id": "swan",
+      "animal_name": "Swan",
+      "asset": "./assets/animals/swan.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Black_Swan_in_Australia.JPG",
+      "source_title": "File:Black Swan in Australia.JPG",
+      "author": "EllieRH",
+      "uploader": "EllieRH",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "EllieRH / Wikimedia Commons / CC BY-SA 4.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 48156,
+      "sha256": "b0fca93c4d3484ba8fd3eddc08ae7d45959d972bd695c7f86ae847aaf385d335",
+      "commons_pageid": 37578523,
+      "openverse_title": "Black Swan in Australia",
+      "openverse_creator": "EllieRH"
+    },
+    {
+      "animal_id": "ostrich",
+      "animal_name": "Ostrich",
+      "asset": "./assets/animals/ostrich.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ostrich_in_safari.jpg",
+      "source_title": "File:Ostrich in safari.jpg",
+      "author": "Jyothis at Malayalam Wikipedia",
+      "uploader": "File Upload Bot (Magnus Manske)",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Jyothis at Malayalam Wikipedia / Wikimedia Commons / CC BY 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2592,
+        "height": 1944
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 207226,
+      "sha256": "45428989c86a6e13e4ca318269177324dab25d018f3e0cea6b501c5b4126cfa0",
+      "commons_pageid": 12672673,
+      "openverse_title": "Ostrich hen with chicks, northern Serengeti",
+      "openverse_creator": "Caelio"
+    },
+    {
+      "animal_id": "toucan",
+      "animal_name": "Toucan",
+      "asset": "./assets/animals/toucan.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Toco_toucan_london.jpg",
+      "source_title": "File:Toco toucan london.jpg",
+      "author": "jon hanson",
+      "uploader": "jon hanson",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "jon hanson / Wikimedia Commons / CC BY-SA 2.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1280,
+        "height": 1047
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 58566,
+      "sha256": "134ed285669c6d34d175acc1209962d30b668b28ec6a8c23318333981c8d7f87",
+      "commons_pageid": 2170427,
+      "openverse_title": "Toco Toucan (Ramphastos toco) eating Papaya (Carica papaya) (28378476504)",
+      "openverse_creator": "Bernard DUPONT from FRANCE"
+    },
+    {
+      "animal_id": "woodpecker",
+      "animal_name": "Woodpecker",
+      "asset": "./assets/animals/woodpecker.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Magellanic_Woodpecker_Male_(Campephilus_magellanicus).jpg",
+      "source_title": "File:Magellanic Woodpecker Male (Campephilus magellanicus).jpg",
+      "author": "Butterfly austral - Serge Ouachée",
+      "uploader": "Butterfly austral",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Butterfly austral - Serge Ouachée / Wikimedia Commons / CC BY-SA 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4288,
+        "height": 2848
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 54110,
+      "sha256": "d95784b947853c87a3aa0a5eae7f54141af358f47155ca0c84477871679431d7",
+      "commons_pageid": 12185129,
+      "openverse_title": "Magellanic Woodpecker Male (Campephilus magellanicus)",
+      "openverse_creator": "Butterfly austral - Serge Ouachée"
+    },
+    {
+      "animal_id": "hummingbird",
+      "animal_name": "Hummingbird",
+      "asset": "./assets/animals/hummingbird.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mangrove_Hummingbird_%E2%99%82.jpg",
+      "source_title": "File:Mangrove Hummingbird ♂.jpg",
+      "author": "Jorge Obando Nature Photo",
+      "uploader": "Perumalism",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Jorge Obando Nature Photo / Wikimedia Commons / CC BY-SA 2.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 36498,
+      "sha256": "791f3297d02146e4cd1b0ed4164ff3682ff6a14c0899cd74e54e21c31efa8d91",
+      "commons_pageid": 66096010,
+      "openverse_title": "Mangrove Hummingbird ♂",
+      "openverse_creator": "Jorge Obando Nature Photo"
+    },
+    {
+      "animal_id": "dolphin",
+      "animal_name": "Dolphin",
+      "asset": "./assets/animals/dolphin.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+      "source_title": "File:010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg",
+      "author": "Giles Laurent",
+      "uploader": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3628,
+        "height": 2419
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 62032,
+      "sha256": "40d32c68664fa50093b1c0abafc3e7faa587b74bbe930582d2892960b6af014c",
+      "commons_pageid": 178480467,
+      "openverse_title": "010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent",
+      "openverse_creator": "Giles Laurent"
+    },
+    {
+      "animal_id": "whale",
+      "animal_name": "Whale",
+      "asset": "./assets/animals/whale.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Humpback_Whale_underwater_shot.jpg",
+      "source_title": "File:Humpback Whale underwater shot.jpg",
+      "author": "NOAA source; modified by Jdforrester and Ed g2s",
+      "uploader": "Kurzon",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "NOAA source; modified by Jdforrester and Ed g2s / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1034,
+        "height": 594
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 11904,
+      "sha256": "77c84630bcc5aace0691978dd4a71a12492085cce081fb4d86ee68be486b6f58",
+      "commons_pageid": 594115,
+      "openverse_title": "Adult Humpback Whale breaching",
+      "openverse_creator": "Gillfoto from Juneau, Alaska, United States"
+    },
+    {
+      "animal_id": "blue-whale",
+      "animal_name": "Blue Whale",
+      "asset": "./assets/animals/blue-whale.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg",
+      "source_title": "File:Bluewhale877.jpg",
+      "author": "NMFS Northeast Fisheries Science Center (NOAA)",
+      "uploader": "NMFS Northeast Fisheries Science Center (NOAA)",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "NMFS Northeast Fisheries Science Center (NOAA) / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1792,
+        "height": 1128
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 53686,
+      "sha256": "e80a00c022d57671454124c398a93d487baf499cfd92da1763bff5d47b1103c4",
+      "commons_pageid": 115538,
+      "openverse_title": "Blue Whale (Balaenoptera musculus) Mysticeti baleen whale",
+      "openverse_creator": "Mike Baird from Morro Bay, USA"
+    },
+    {
+      "animal_id": "shark",
+      "animal_name": "Shark",
+      "asset": "./assets/animals/shark.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+      "source_title": "File:White shark.jpg",
+      "author": "Pterantula (Terry Goss) at en.wikipedia",
+      "uploader": "Pterantula (Terry Goss) at en.wikipedia",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Pterantula (Terry Goss) at en.wikipedia / Wikimedia Commons / CC BY 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1200,
+        "height": 835
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 40352,
+      "sha256": "70452583747eac3e41d204cd8ee2079d1b7b616b6b37e44a7c1de2b4509c94ef",
+      "commons_pageid": 1561215,
+      "openverse_title": "<div class='fn'> Scalloped Hammerhead Shark Sphyrna Lewini</div>",
+      "openverse_creator": "Kris Mikael Krister"
+    },
+    {
+      "animal_id": "octopus",
+      "animal_name": "Octopus",
+      "asset": "./assets/animals/octopus.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Octopus_Vulgaris.jpg",
+      "source_title": "File:Octopus Vulgaris.jpg",
+      "author": "Theasereje",
+      "uploader": "Theasereje",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Theasereje / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3648,
+        "height": 2736
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 136370,
+      "sha256": "29a310caddc5d1c0f0640adbdc9ee299ab61677d3b3b31396a8a52f8980c0ffd",
+      "commons_pageid": 7526717,
+      "openverse_title": "Octopus sp Timor",
+      "openverse_creator": "Nhobgood Nick Hobgood"
+    },
+    {
+      "animal_id": "sea-turtle",
+      "animal_name": "Sea Turtle",
+      "asset": "./assets/animals/sea-turtle.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+      "source_title": "File:Green sea turtle (Chelonia mydas) Moorea.jpg",
+      "author": "Charles J. Sharp",
+      "uploader": "Charlesjsharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 6671,
+        "height": 4448
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 90946,
+      "sha256": "2deebe278a449b133b69d4d52411f13894e2626168cb33f14692fc0fafd817e2",
+      "commons_pageid": 155815572,
+      "openverse_title": "Green sea turtle (Chelonia mydas) Moorea",
+      "openverse_creator": "Charles J. Sharp"
+    },
+    {
+      "animal_id": "seal",
+      "animal_name": "Seal",
+      "asset": "./assets/animals/seal.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Harbour_seal.jpg",
+      "source_title": "File:Harbour seal.jpg",
+      "author": "Matthews, Sue",
+      "uploader": "Matthews, Sue",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "Matthews, Sue / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1150,
+        "height": 761
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 25004,
+      "sha256": "43cb39f38f0e4299cff94ce212d6aa1fb2512bd90fa574e1fedbb469233f31e4",
+      "commons_pageid": 45650,
+      "openverse_title": "Atlantic Harbor Seal outside of the New England Aquarium",
+      "openverse_creator": "Lizzzz43"
+    },
+    {
+      "animal_id": "sea-lion",
+      "animal_name": "Sea Lion",
+      "asset": "./assets/animals/sea-lion.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sea_Lion_Pup.jpg",
+      "source_title": "File:Sea Lion Pup.jpg",
+      "author": "refractor",
+      "uploader": "FlickrLickr",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "refractor / Wikimedia Commons / CC BY 2.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2091,
+        "height": 1809
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 58338,
+      "sha256": "ad9518cce359af0ea456eb2c39e5084ecd155cd7e272ccac81070ff039297dda",
+      "commons_pageid": 1102612,
+      "openverse_title": "Sea Lion Pup",
+      "openverse_creator": "refractor"
+    },
+    {
+      "animal_id": "clownfish",
+      "animal_name": "Clownfish",
+      "asset": "./assets/animals/clownfish.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cinnamon_clownfish_right_side.jpg",
+      "source_title": "File:Cinnamon clownfish right side.jpg",
+      "author": "Bruxton",
+      "uploader": "Bruxton",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Bruxton / Wikimedia Commons / CC0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 902,
+        "height": 803
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 17946,
+      "sha256": "8438d8d1e21e53bb912392970a539124ab5553778f774f910a869bfd6c3a0ca5",
+      "commons_pageid": 152831408,
+      "openverse_title": "Clownfish in aquarium",
+      "openverse_creator": "Martin Olsson (mnemo on en/sv wikipedia and commons, martin@minimum.se)."
+    },
+    {
+      "animal_id": "seahorse",
+      "animal_name": "Seahorse",
+      "asset": "./assets/animals/seahorse.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Seahorse%2A.JPG",
+      "source_title": "File:Seahorse*.JPG",
+      "author": "Scubagirl85",
+      "uploader": "Scubagirl85",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Scubagirl85 / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1670,
+        "height": 2517
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 69736,
+      "sha256": "9905f062db1e79aff2a28583b6fbabf48bc92961201213ce92d4fefc61e5c7ed",
+      "commons_pageid": 30166690,
+      "openverse_title": "Seahorse-aquarium",
+      "openverse_creator": "No machine-readable author provided. Stevenj assumed (based on copyright claims)."
+    },
+    {
+      "animal_id": "jellyfish",
+      "animal_name": "Jellyfish",
+      "asset": "./assets/animals/jellyfish.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg",
+      "source_title": "File:Lion's mane jellyfish in Gullmarn fjord at Sämstad 3.jpg",
+      "author": "W.carter",
+      "uploader": "Charlesjsharp",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "W.carter / Wikimedia Commons / CC0 (cropped and converted to WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 5045,
+        "height": 3342
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 45940,
+      "sha256": "e7830c933b515c4a7e9190dbf71fb7bc7ec8d5be5c6379fc1853e3be113f7f87",
+      "commons_pageid": 80379553,
+      "openverse_title": "Lion's mane jellyfish in Gullmarn fjord at Sämstad 3",
+      "openverse_creator": "W.carter"
+    },
+    {
+      "animal_id": "crab",
+      "animal_name": "Crab",
+      "asset": "./assets/animals/crab.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Crab_sitting_on_coral_rock_from_the_side_%28Niue%29.jpg",
+      "source_title": "File:Crab sitting on coral rock from the side (Niue).jpg",
+      "author": "Pseudopanax at English Wikipedia",
+      "uploader": "Pseudopanax at English Wikipedia",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "Pseudopanax at English Wikipedia / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1800,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 79208,
+      "sha256": "65771e32846647d19c3ab003046c992ed42cad16e4a2521d5797c73f3add69a6",
+      "commons_pageid": 175454254,
+      "openverse_title": "Caribbean hermit crab",
+      "openverse_creator": "ZooFari"
+    },
+    {
+      "animal_id": "starfish",
+      "animal_name": "Starfish",
+      "asset": "./assets/animals/starfish.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_starfish_-_torbay.jpg",
+      "source_title": "File:Common starfish - torbay.jpg",
+      "author": "Herbythyme",
+      "uploader": "Herbythyme",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Herbythyme / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2800,
+        "height": 1795
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 106560,
+      "sha256": "4008c9633e3606debde924020ce41e1e884773ea79e9203c35444e6015efcda3",
+      "commons_pageid": 9648194,
+      "openverse_title": "Starfish at Tafelberg deep DSC09595",
+      "openverse_creator": "Peter Southwood"
+    },
+    {
+      "animal_id": "stingray",
+      "animal_name": "Stingray",
+      "asset": "./assets/animals/stingray.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Black-blotched_Stingray.jpg",
+      "source_title": "File:Black-blotched Stingray.jpg",
+      "author": "Tchami",
+      "uploader": "Togabi",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Tchami / Wikimedia Commons / CC BY-SA 2.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1280
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 131370,
+      "sha256": "8cc13ab910d9e2616c58c2783ca769b31bc2f986289aa6cae831741bbae4a786",
+      "commons_pageid": 34504095,
+      "openverse_title": "Black-blotched Stingray",
+      "openverse_creator": "Tchami"
+    },
+    {
+      "animal_id": "frog",
+      "animal_name": "Frog",
+      "asset": "./assets/animals/frog.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grasfrosch-Rana-temporaria-side.jpg",
+      "source_title": "File:Grasfrosch-Rana-temporaria-side.jpg",
+      "author": "Holger Krisp",
+      "uploader": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "Holger Krisp / Wikimedia Commons / CC BY 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3000,
+        "height": 2110
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 60526,
+      "sha256": "b2dca258b1a6a3e610ba2b5e26b86e9b1654162a5172b4a6df1f3ef7f9bb987e",
+      "commons_pageid": 16316567,
+      "openverse_title": "Red-eyed Tree Frog - Litoria chloris edit1",
+      "openverse_creator": "LiquidGhoul edited by Muhammad"
+    },
+    {
+      "animal_id": "toad",
+      "animal_name": "Toad",
+      "asset": "./assets/animals/toad.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_toad_%28bufo_bufo%29.jpg",
+      "source_title": "File:Common toad (bufo bufo).jpg",
+      "author": "Charles J. Sharp",
+      "uploader": "Charles J. Sharp",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4374,
+        "height": 2916
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 34040,
+      "sha256": "5ad6e5b9ce0deb94fa07d1cd905067b1c7b81cd0041d921dbee068e3d62924e5",
+      "commons_pageid": 31664353,
+      "openverse_title": "Instituto Butantan 2016 034 - 'Cururu' toad",
+      "openverse_creator": "Photograph by Mike Peel (www.mikepeel.net)."
+    },
+    {
+      "animal_id": "snake",
+      "animal_name": "Snake",
+      "asset": "./assets/animals/snake.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Coiled_Snake.jpg",
+      "source_title": "File:Coiled Snake.jpg",
+      "author": "John Musgrove (jjmusgrove)",
+      "uploader": "Ser Amantio di Nicolao",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "John Musgrove (jjmusgrove) / Wikimedia Commons / CC BY 2.0 (full photograph retained as foreground, blurred vertical scene extension, converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1280,
+        "height": 854
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 70270,
+      "sha256": "12e1e377851f12a46c59e086108e0cc80e9a898893d5df3782a228d106d06d17"
+    },
+    {
+      "animal_id": "lizard",
+      "animal_name": "Lizard",
+      "asset": "./assets/animals/lizard.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Horned_lizard_032507_kdh.jpg",
+      "source_title": "File:Horned lizard 032507 kdh.jpg",
+      "author": "Room237",
+      "uploader": "A. C. Tatarinov",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Room237 / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1440
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 102346,
+      "sha256": "c3217dd32035e65b5cd90e69225df757951eba759c4357befb22ff6d38f7616b",
+      "commons_pageid": 9896034,
+      "openverse_title": "Horned lizard 032507 kdh",
+      "openverse_creator": "Room237"
+    },
+    {
+      "animal_id": "chameleon",
+      "animal_name": "Chameleon",
+      "asset": "./assets/animals/chameleon.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chameleon_in_Berenty_Madagascar_0001.JPG",
+      "source_title": "File:Chameleon in Berenty Madagascar 0001.JPG",
+      "author": "Yosemite (photographer, identified in Commons description)",
+      "uploader": "Yosemite~commonswiki",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Yosemite (photographer; Commons uploader Yosemite~commonswiki) / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 94354,
+      "sha256": "99ebbef3f39bf73af9319c1c67c8e44be6d20b1561c73c62bf22a9d5c6e8e048",
+      "commons_pageid": 135396,
+      "openverse_title": "Chameleon in Berenty Madagascar 0001",
+      "openverse_creator": null,
+      "author_source_note": "Commons description says Photo by Yosemite."
+    },
+    {
+      "animal_id": "tortoise",
+      "animal_name": "Tortoise",
+      "asset": "./assets/animals/tortoise.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hermann%27s_Tortoise_side_view.jpg",
+      "source_title": "File:Hermann's Tortoise side view.jpg",
+      "author": "Mayer Richard at English Wikipedia",
+      "uploader": "Mayer Richard at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Mayer Richard at English Wikipedia / Wikimedia Commons / CC BY-SA 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1026,
+        "height": 772
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 41326,
+      "sha256": "0046d33de3af9d0a5f69fe2d4d2db093a210ab7088f62ec3e2eb3600a12f2a60",
+      "commons_pageid": 8856947,
+      "openverse_title": "Seychelles giant tortoise",
+      "openverse_creator": null
+    },
+    {
+      "animal_id": "turtle",
+      "animal_name": "Turtle",
+      "asset": "./assets/animals/turtle.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Western_Caspian_turtle_(Mauremys_rivulata),_El-Al_river.jpg",
+      "source_title": "File:Western Caspian turtle (Mauremys rivulata), El-Al river.jpg",
+      "author": "Yuvalr",
+      "uploader": "Yuvalr",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Yuvalr / Wikimedia Commons / CC BY-SA 3.0 (cropped and converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3072,
+        "height": 2304
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 96102,
+      "sha256": "7362946659dcddd7ed19f46a62aeffefab49c9f821efd6a320c4582ec1391d87",
+      "commons_pageid": 16459582,
+      "openverse_title": "Western Caspian turtle (Mauremys rivulata), El-Al river",
+      "openverse_creator": "Yuvalr"
+    },
+    {
+      "animal_id": "iguana",
+      "animal_name": "Iguana",
+      "asset": "./assets/animals/iguana.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Full_body_shot_of_iguana_in_the_grass.jpg",
+      "source_title": "File:Full body shot of iguana in the grass.jpg",
+      "author": "Mike Morel, U.S. Fish and Wildlife Service",
+      "uploader": "Mike Morel, U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution": "Mike Morel, U.S. Fish and Wildlife Service / Wikimedia Commons / Public domain (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 3000,
+        "height": 2400
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 167828,
+      "sha256": "bb24da06235b5b3a81044327e0adc371c385332394b256196eb3589fb8b138fb",
+      "commons_pageid": 15231274,
+      "openverse_title": "Iguana iguana Portoviejo 04",
+      "openverse_creator": "Cayambe"
+    },
+    {
+      "animal_id": "gecko",
+      "animal_name": "Gecko",
+      "asset": "./assets/animals/gecko.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gecko_l%C3%A9opard_femelle_adulte.jpg",
+      "source_title": "File:Gecko léopard femelle adulte.jpg",
+      "author": "Not stated on Commons page; uploader Jerome66",
+      "uploader": "Jerome66",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Jerome66 (uploader; author not stated) / Wikimedia Commons / CC BY-SA 3.0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1440
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 113342,
+      "sha256": "939fe9d898e5a36fec71c4ba224034296c9d9d835997373f9e975d9a5b853e99",
+      "commons_pageid": 293221,
+      "openverse_title": "Gecko léopard femelle adulte",
+      "openverse_creator": null,
+      "author_source_note": "Commons file page has no author field; Jerome66 is the uploader."
+    },
+    {
+      "animal_id": "salamander",
+      "animal_name": "Salamander",
+      "asset": "./assets/animals/salamander.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fire_salamander_%28Salamandra_Salamandra%29.jpg",
+      "source_title": "File:Fire salamander (Salamandra Salamandra).jpg",
+      "author": "Petar Milošević",
+      "uploader": "PetarM",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Petar Milošević / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 4180,
+        "height": 2710
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 66736,
+      "sha256": "48beecd47fd057061396ca5fb28291c20dec340757801a0986b4cb8e978171f3",
+      "commons_pageid": 96146618,
+      "openverse_title": "Pigeon Mountain Salamander (Plethodon petraeus) - Flickr - 2ndPeter",
+      "openverse_creator": "Peter Paplanus from St. Louis, Missouri"
+    },
+    {
+      "animal_id": "butterfly",
+      "animal_name": "Butterfly",
+      "asset": "./assets/animals/butterfly.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mariposa_Butterfly_side_view.jpg",
+      "source_title": "File:Mariposa Butterfly side view.jpg",
+      "author": "FroyAgta",
+      "uploader": "FroyAgta",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "FroyAgta / Wikimedia Commons / CC BY-SA 4.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 3328,
+        "height": 1872
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 69580,
+      "sha256": "92ef3d39efcc9361abc39e82a019e7c3c8e4091afba0be635c4566f23253e524",
+      "commons_pageid": 64197389,
+      "openverse_title": "Common Buckeye Butterfly Insect",
+      "openverse_creator": "Sydney Irons"
+    },
+    {
+      "animal_id": "bee",
+      "animal_name": "Bee",
+      "asset": "./assets/animals/bee.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bee_On_Flower_Side_2000px.jpg",
+      "source_title": "File:Bee On Flower Side 2000px.jpg",
+      "author": "Photo (c)2007 Derek Ramsey ( Ram-Man )",
+      "uploader": "Photo (c)2007 Derek Ramsey ( Ram-Man )",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Photo (c)2007 Derek Ramsey ( Ram-Man ) / Wikimedia Commons / CC BY-SA 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2000,
+        "height": 1500
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 63252,
+      "sha256": "c56b7481a3e5655ddaf4bd8d4128e74ae4d92bf758455e3d7be16b9f6ce6bd5c",
+      "commons_pageid": 1765918,
+      "openverse_title": "Bee September 2007-6",
+      "openverse_creator": "Alvesgaspar"
+    },
+    {
+      "animal_id": "ladybug",
+      "animal_name": "Ladybug",
+      "asset": "./assets/animals/ladybug.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ladybug_eating_aphids._(49485764276).jpg",
+      "source_title": "File:Ladybug eating aphids. (49485764276).jpg",
+      "author": "DAVID S. FERRY III from PLANT CITY,FL., U.S.A.",
+      "uploader": "Killarnee",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "DAVID S. FERRY III from PLANT CITY,FL., U.S.A. / Wikimedia Commons / CC0 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1577
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 32598,
+      "sha256": "2164c90863dae18309e7f0c8a72c600547d9f75e4b1f37a74dde9fff1ffa5b8d",
+      "commons_pageid": 87235307,
+      "openverse_title": "Ladybug eating aphids. (49485764276)",
+      "openverse_creator": "DAVID S. FERRY III from PLANT CITY,FL., U.S.A."
+    },
+    {
+      "animal_id": "ant",
+      "animal_name": "Ant",
+      "asset": "./assets/animals/ant.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ant_on_leaf.jpg",
+      "source_title": "File:Ant on leaf.jpg",
+      "author": "Luke Elstad",
+      "uploader": "Lukeelstad",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Luke Elstad / Wikimedia Commons / CC BY 2.5 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1440
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 27824,
+      "sha256": "e003c1c3cd666798946975d51d0efce91b0c0e7ba991c9e047556bd009a6d209",
+      "commons_pageid": 1349504,
+      "openverse_title": "Ant on leaf",
+      "openverse_creator": "Luke Elstad"
+    },
+    {
+      "animal_id": "spider",
+      "animal_name": "Spider",
+      "asset": "./assets/animals/spider.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spider_top_view.jpg",
+      "source_title": "File:Spider top view.jpg",
+      "author": "Jimwmurphy",
+      "uploader": "Jimwmurphy",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "Jimwmurphy / Wikimedia Commons / CC BY 3.0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2518,
+        "height": 1807
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 24252,
+      "sha256": "d01f61bccbcddaf755840d29360325b65c42b250f0e0149ddb63611b6721e37c",
+      "commons_pageid": 7232777,
+      "openverse_title": "Spider April 2008-8",
+      "openverse_creator": "Alvesgaspar"
+    },
+    {
+      "animal_id": "dragonfly",
+      "animal_name": "Dragonfly",
+      "asset": "./assets/animals/dragonfly.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Unknown_Dragonfly.jpg",
+      "source_title": "File:Unknown Dragonfly.jpg",
+      "author": "Wilfredor",
+      "uploader": "Wilfredor",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Wilfredor / Wikimedia Commons / CC0 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": false,
+      "source_dimensions": {
+        "width": 3000,
+        "height": 2243
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 43524,
+      "sha256": "052f1971250a950eec7c06380544a58f3b76fef58ab10fbff6c4dbc41c3dda44",
+      "commons_pageid": 23597003,
+      "openverse_title": "Dragonfly ran-384",
+      "openverse_creator": "R. A. Nonenmacher"
+    },
+    {
+      "animal_id": "snail",
+      "animal_name": "Snail",
+      "asset": "./assets/animals/snail.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Snail_jena.JPG",
+      "source_title": "File:Snail jena.JPG",
+      "author": "alfried h.",
+      "uploader": "Alf1~commonswiki",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "alfried h. / Wikimedia Commons / CC BY-SA 2.5 (full-frame restored; no source crop; converted to WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1920,
+        "height": 1440
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 52066,
+      "sha256": "4448f50929b0d41955f1fdb2131066b5134f865219747f3a4adf92082ad29059",
+      "commons_pageid": 2273644,
+      "openverse_title": "Snail jena",
+      "openverse_creator": "alfried h."
+    },
+    {
+      "animal_id": "caterpillar",
+      "animal_name": "Caterpillar",
+      "asset": "./assets/animals/caterpillar.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chenille_chevrefeuille.jpg",
+      "source_title": "File:Chenille chevrefeuille.jpg",
+      "author": "Jodelet/Lépinay",
+      "uploader": "Jod-let",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Jodelet/Lépinay / Wikimedia Commons / CC BY-SA 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 1845,
+        "height": 1644
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 59230,
+      "sha256": "1124aed7a5529878ec348c3d918b60bc06ccefc5b2ccac15545dd308a53b1ff0",
+      "commons_pageid": 773199,
+      "openverse_title": "Caterpillar at 5th stage",
+      "openverse_creator": "Fir0002 at English Wikipedia"
+    },
+    {
+      "animal_id": "grasshopper",
+      "animal_name": "Grasshopper",
+      "asset": "./assets/animals/grasshopper.webp",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_Lubber_Grasshopper_Sideview.jpg",
+      "source_title": "File:Eastern Lubber Grasshopper Sideview.jpg",
+      "author": "Wingchi Poon",
+      "uploader": "Wingchi Poon",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Wingchi Poon / Wikimedia Commons / CC BY-SA 2.5 (full-frame scaled and converted to transparent WebP)",
+      "attribution_required": true,
+      "source_dimensions": {
+        "width": 2048,
+        "height": 1360
+      },
+      "asset_dimensions": {
+        "width": 640,
+        "height": 800
+      },
+      "file_bytes": 41720,
+      "sha256": "015cf0a7994a4dc96135c103a7c6831f446f4167205062e63a8892b700107129",
+      "commons_pageid": 1850571,
+      "openverse_title": "Grasshopper November 2008-3",
+      "openverse_creator": "Alvesgaspar"
+    }
+  ]
+}

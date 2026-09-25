@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f5ef" />
+    <meta name="description" content="给小小探险家准备的温柔动物认知卡片。" />
+    <meta name="application-version" content="V1 Test 1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="小小动物园" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>小小动物园 · Little Wild</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand" aria-label="小小动物园">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" role="img"><path d="M11 20c0-7 5.8-12 13-12s13 5 13 12v11c0 5-5.4 9-13 9s-13-4-13-9V20Z"/><path d="M11 23C5 19 3 13 6 11c4-2 9 3 11 9M37 23c6-4 8-10 5-12-4-2-9 3-11 9"/><circle cx="19" cy="25" r="1.7"/><circle cx="29" cy="25" r="1.7"/><path d="M21 31c2 2 4 2 6 0"/></svg>
+          </div>
+          <div class="brand-copy"><span class="brand-cn">小小动物园</span><span class="brand-en">LITTLE WILD</span></div>
+        </div>
+        <div class="top-meta"><span class="page-count" id="pageCount">01 / 80</span><span class="parent-hint" aria-hidden="true">●</span></div>
+      </header>
+
+      <main class="main-content">
+        <div class="card-heading">
+          <div class="category-chip" id="categoryChip">农场动物</div>
+          <div class="tiny-sparkle" aria-hidden="true">✳</div>
+        </div>
+
+        <section class="animal-card" aria-label="动物卡片">
+          <div class="photo-stage" id="photoStage">
+            <div class="photo-glow photo-glow-one" aria-hidden="true"></div>
+            <div class="photo-glow photo-glow-two" aria-hidden="true"></div>
+            <div class="photo-fallback" id="photoFallback" aria-hidden="true">🐶</div>
+            <img id="animalPhoto" class="animal-photo" alt="" draggable="false" />
+            <div class="photo-caption" id="photoCaption">MEET A FRIEND</div>
+            <button class="photo-tap-target" id="photoTapTarget" type="button" aria-label="听动物英文发音"></button>
+          </div>
+          <div class="animal-info">
+            <p class="animal-kicker" id="animalKicker">SAY HELLO</p>
+            <h1 class="animal-name" id="animalName">Dog</h1>
+            <p class="animal-translation" id="animalTranslation">小狗</p>
+          </div>
+        </section>
+
+        <div class="card-controls">
+          <button class="nav-button" id="previousButton" type="button" aria-label="上一只动物">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 5-7 7 7 7"/></svg>
+          </button>
+          <button class="speak-button" id="speakButton" type="button" aria-label="播放英文发音">
+            <span class="sound-waves" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+            <span class="speak-label">听一听</span>
+          </button>
+          <button class="nav-button" id="nextButton" type="button" aria-label="下一只动物">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9.5 5 7 7-7 7"/></svg>
+          </button>
+        </div>
+        <div class="swipe-note" id="swipeNote">左右滑动，认识更多动物</div>
+      </main>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </div>
+
+    <div class="modal-backdrop" id="parentModal" hidden>
+      <section class="parent-modal" role="dialog" aria-modal="true" aria-labelledby="parentTitle">
+        <button class="modal-close" id="modalClose" type="button" aria-label="关闭">×</button>
+        <div class="modal-icon" aria-hidden="true">🌿</div>
+        <p class="modal-eyebrow">GROWN-UPS ONLY</p>
+        <h2 id="parentTitle">家长入口</h2>
+        <p class="challenge-copy" id="challengeCopy">请完成一道成人验证题。</p>
+        <form id="challengeForm" class="challenge-form">
+          <label class="sr-only" for="challengeAnswer">验证答案</label>
+          <input id="challengeAnswer" inputmode="numeric" autocomplete="off" placeholder="输入答案" />
+          <button type="submit" class="primary-button">继续</button>
+        </form>
+        <p class="form-error" id="challengeError" aria-live="polite"></p>
+      </section>
+    </div>
+
+    <div class="modal-backdrop" id="settingsModal" hidden>
+      <section class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+        <div class="settings-header">
+          <div><p class="modal-eyebrow">FOR PARENTS</p><h2 id="settingsTitle">家长设置</h2></div>
+          <button class="modal-close settings-close" id="settingsClose" type="button" aria-label="返回动物卡片">×</button>
+        </div>
+        <div class="settings-list">
+          <label class="setting-row"><span><strong>进入时自动发音</strong><small>切换动物卡片时读出英文名</small></span><input type="checkbox" id="autoSpeakToggle" /><span class="switch" aria-hidden="true"></span></label>
+          <div class="setting-row setting-select-row"><span><strong>浏览方式</strong><small>选择下一只动物的顺序</small></span><div class="segmented"><button type="button" data-mode="sequential" class="mode-button">顺序</button><button type="button" data-mode="random" class="mode-button">随机</button></div></div>
+          <div class="setting-row setting-select-row"><span><strong>卡片文字</strong><small>选择显示语言</small></span><div class="segmented"><button type="button" data-language="en" class="language-button">English</button><button type="button" data-language="both" class="language-button">中英</button></div></div>
+          <label class="setting-row"><span><strong>动物叫声</strong><small>声音内容正在准备中</small></span><input type="checkbox" id="animalSoundsToggle" /><span class="switch" aria-hidden="true"></span></label>
+        </div>
+        <div class="offline-card">
+          <div class="offline-copy"><strong>离线动物图册</strong><small id="cacheStatus">连接网络后自动准备动物图片</small></div>
+          <div class="cache-progress" aria-hidden="true"><span id="cacheProgressBar"></span></div>
+          <button id="downloadPhotosButton" type="button" class="secondary-button">重新检查离线资源</button>
+          <button id="creditsButton" type="button" class="credits-button">图片来源 / 版权信息</button>
+        </div>
+        <div class="parent-footer"><button id="resetSettingsButton" class="text-button" type="button">恢复默认设置</button><button id="backToCardsButton" class="primary-button" type="button">回到动物卡片</button></div>
+        <p class="guided-access-note">需要彻底锁定在本 App 时，请开启 iPhone 引导式访问。</p>
+      </section>
+    </div>
+
+    <div class="modal-backdrop" id="creditsModal" hidden>
+      <section class="credits-panel" role="dialog" aria-modal="true" aria-labelledby="creditsTitle">
+        <div class="settings-header">
+          <div><p class="modal-eyebrow">IMAGE CREDITS</p><h2 id="creditsTitle">图片来源 / 版权信息</h2></div>
+          <button class="modal-close settings-close" id="creditsClose" type="button" aria-label="返回家长设置">×</button>
+        </div>
+        <p class="credits-intro">以下为 80 张动物主图的来源、作者/上传者、许可和署名记录。来源地址仅作为文字显示。</p>
+        <div class="credits-list" id="creditsList"></div>
+        <button class="primary-button credits-back" id="creditsBackButton" type="button">返回家长设置</button>
+      </section>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
